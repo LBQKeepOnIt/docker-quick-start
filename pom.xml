@@ -47,7 +47,7 @@
                 <version>1.0.0</version>
                 <configuration>
                     <imageName>lbq/devtest</imageName>
-                    <dockerDirectory>./</dockerDirectory>
+                    <dockerDirectory>src/main/docker</dockerDirectory>
                     <resources>
                         <resource>
                             <targetPath>/</targetPath>
