@@ -47,7 +47,7 @@
                 <version>1.0.0</version>
                 <configuration>
                     <imageName>lbq/devtest</imageName>
-                    <dockerDirectory>${project.basedir}/src/main/docker</dockerDirectory>
+                    <dockerDirectory>./</dockerDirectory>
                     <resources>
                         <resource>
                             <targetPath>/</targetPath>
